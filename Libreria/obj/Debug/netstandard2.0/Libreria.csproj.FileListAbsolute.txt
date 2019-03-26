@@ -1,0 +1,9 @@
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\bin\Debug\netstandard2.0\Libreria.deps.json
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\bin\Debug\netstandard2.0\Libreria.dll
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\bin\Debug\netstandard2.0\Libreria.pdb
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\obj\Debug\netstandard2.0\Libreria.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\obj\Debug\netstandard2.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\obj\Debug\netstandard2.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\obj\Debug\netstandard2.0\Libreria.AssemblyInfo.cs
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\obj\Debug\netstandard2.0\Libreria.dll
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\Libreria\obj\Debug\netstandard2.0\Libreria.pdb

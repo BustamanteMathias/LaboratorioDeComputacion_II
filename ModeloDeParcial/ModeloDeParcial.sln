@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDeParcial", "ModeloDeParcial\ModeloDeParcial.csproj", "{5CB5EAB3-DF12-44AF-86B0-D54DF7B42744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{815F02D2-F4F3-484F-A550-7C3EF826F11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB5EAB3-DF12-44AF-86B0-D54DF7B42744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB5EAB3-DF12-44AF-86B0-D54DF7B42744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB5EAB3-DF12-44AF-86B0-D54DF7B42744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB5EAB3-DF12-44AF-86B0-D54DF7B42744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815F02D2-F4F3-484F-A550-7C3EF826F11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815F02D2-F4F3-484F-A550-7C3EF826F11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815F02D2-F4F3-484F-A550-7C3EF826F11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815F02D2-F4F3-484F-A550-7C3EF826F11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D521995F-4014-42F7-871C-58095A03FA44}
+	EndGlobalSection
+EndGlobal

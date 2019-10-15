@@ -1,0 +1,18 @@
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\bin\Debug\Bustamante.Mathias.2D.dll
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\bin\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Bustamante.Mathias.2D.dll
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\bin\Debug\Bustamante.Mathias.2D.dll
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\bin\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Bustamante.Mathias.2D.dll
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\bin\Debug\Bustamante.Mathias.2D.dll
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\bin\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Bustamante.Mathias.2D.dll
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\Bustamante.Mathias.2D\obj\Debug\Bustamante.Mathias.2D.pdb

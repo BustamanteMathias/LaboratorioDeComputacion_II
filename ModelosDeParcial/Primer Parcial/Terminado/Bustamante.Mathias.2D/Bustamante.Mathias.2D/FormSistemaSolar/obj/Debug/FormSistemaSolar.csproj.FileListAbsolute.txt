@@ -1,0 +1,39 @@
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe.config
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.pdb
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.formSistemaSolar.resources
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.Properties.Resources.resources
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.exe
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.pdb
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\Bustamante.Mathias.2D.dll
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\alumno\Desktop\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CopyComplete
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.formSistemaSolar.resources
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.Properties.Resources.resources
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.exe
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.pdb
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe.config
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.pdb
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\Bustamante.Mathias.2D.dll
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\Mati\Desktop\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CopyComplete
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe.config
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.exe
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\FormSistemaSolar.pdb
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\Bustamante.Mathias.2D.dll
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\bin\Debug\Bustamante.Mathias.2D.pdb
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.formSistemaSolar.resources
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.Properties.Resources.resources
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.csproj.CopyComplete
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.exe
+C:\Users\alumno\Desktop\LaboratorioDeComputacion_II\Bustamante.Mathias.2D (terminado)\Bustamante.Mathias.2D\Bustamante.Mathias.2D\FormSistemaSolar\obj\Debug\FormSistemaSolar.pdb

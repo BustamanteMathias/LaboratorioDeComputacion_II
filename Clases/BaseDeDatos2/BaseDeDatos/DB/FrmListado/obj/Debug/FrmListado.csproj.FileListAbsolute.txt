@@ -1,0 +1,17 @@
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\FrmListado.exe.config
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\FrmListado.exe
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\FrmListado.pdb
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\AccesoDatos.dll
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\ConsoleApp1.exe
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\AccesoDatos.dll.config
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\ConsoleApp1.pdb
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.Form1.resources
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.Properties.Resources.resources
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.csproj.CopyComplete
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.exe
+C:\Users\alumno\Desktop\BaseDeDatos\DB\FrmListado\obj\Debug\FrmListado.pdb

@@ -1,0 +1,7 @@
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\bin\Debug\EjercicioNro_01.exe.config
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\bin\Debug\EjercicioNro_01.exe
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\bin\Debug\EjercicioNro_01.pdb
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\obj\Debug\EjercicioNro_01.csprojAssemblyReference.cache
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\obj\Debug\EjercicioNro_01.csproj.CoreCompileInputs.cache
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\obj\Debug\EjercicioNro_01.exe
+c:\users\mati\source\repos\Bustamate.Mathias\EjercicioNro_01\obj\Debug\EjercicioNro_01.pdb

@@ -1,0 +1,14 @@
+D:\VisualStudio\DB\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+D:\VisualStudio\DB\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\VisualStudio\DB\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\VisualStudio\DB\AccesoDatos\obj\Debug\BD.csprojAssemblyReference.cache
+D:\VisualStudio\DB\AccesoDatos\obj\Debug\BD.csproj.CoreCompileInputs.cache
+D:\VisualStudio\DB\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\VisualStudio\DB\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\obj\Debug\BD.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\alumno\Desktop\BaseDeDatos\DB\AccesoDatos\obj\Debug\AccesoDatos.pdb

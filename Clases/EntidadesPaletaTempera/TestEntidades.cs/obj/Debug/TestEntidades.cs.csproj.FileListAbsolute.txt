@@ -1,0 +1,10 @@
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\obj\Debug\TestEntidades.cs.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\obj\Debug\TestEntidades.cs.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\bin\Debug\TestEntidades.cs.exe.config
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\bin\Debug\TestEntidades.cs.exe
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\bin\Debug\TestEntidades.cs.pdb
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\bin\Debug\EntidadesPaletaTempera.dll
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\bin\Debug\EntidadesPaletaTempera.pdb
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\obj\Debug\TestEntidades.cs.csproj.CopyComplete
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\obj\Debug\TestEntidades.cs.exe
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\TestEntidades.cs\obj\Debug\TestEntidades.cs.pdb

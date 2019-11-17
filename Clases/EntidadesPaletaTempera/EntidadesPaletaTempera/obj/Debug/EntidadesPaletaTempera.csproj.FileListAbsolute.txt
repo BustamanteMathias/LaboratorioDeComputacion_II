@@ -1,0 +1,6 @@
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\EntidadesPaletaTempera\bin\Debug\EntidadesPaletaTempera.dll
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\EntidadesPaletaTempera\bin\Debug\EntidadesPaletaTempera.pdb
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\EntidadesPaletaTempera\obj\Debug\EntidadesPaletaTempera.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\EntidadesPaletaTempera\obj\Debug\EntidadesPaletaTempera.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\EntidadesPaletaTempera\obj\Debug\EntidadesPaletaTempera.dll
+C:\Users\Mathias\Desktop\EntidadesPaletaTempera\EntidadesPaletaTempera\obj\Debug\EntidadesPaletaTempera.pdb

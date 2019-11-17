@@ -1,9 +1,0 @@
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\netstandard2.0\Bustamante.Mathias.2A.csprojAssemblyReference.cache
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\netstandard2.0\Bustamante.Mathias.2A.csproj.CoreCompileInputs.cache
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\netstandard2.0\Bustamante.Mathias.2A.AssemblyInfoInputs.cache
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\netstandard2.0\Bustamante.Mathias.2A.AssemblyInfo.cs
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\bin\Debug\netstandard2.0\Bustamante.Mathias.2A.deps.json
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\bin\Debug\netstandard2.0\Bustamante.Mathias.2A.dll
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\bin\Debug\netstandard2.0\Bustamante.Mathias.2A.pdb
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\netstandard2.0\Bustamante.Mathias.2A.dll
-D:\Bustamante.Mathias.2A\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\netstandard2.0\Bustamante.Mathias.2A.pdb

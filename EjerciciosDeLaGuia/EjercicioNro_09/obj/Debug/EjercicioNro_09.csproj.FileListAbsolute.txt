@@ -1,0 +1,6 @@
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\EjercicioNro_09\bin\Debug\EjercicioNro_09.exe.config
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\EjercicioNro_09\bin\Debug\EjercicioNro_09.exe
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\EjercicioNro_09\bin\Debug\EjercicioNro_09.pdb
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\EjercicioNro_09\obj\Debug\EjercicioNro_09.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\EjercicioNro_09\obj\Debug\EjercicioNro_09.exe
+C:\Users\Mati\Desktop\UTN\04 Programacion II - Laboratorio II\02. Ejercicios\EjercicioNro_09\obj\Debug\EjercicioNro_09.pdb

@@ -1,0 +1,2 @@
+C:\Users\alumno\Desktop\20181122 - SP Lab II\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\20181122 - SP Lab II\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
